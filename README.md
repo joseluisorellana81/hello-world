@@ -1,2 +1,3 @@
 # hello-world
-Mi primer repositorio
+My first repository
+This is my first repository for test giht-hub
